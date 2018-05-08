@@ -1,0 +1,28 @@
+
+body{
+ background: white;
+}
+img {
+ width: 300px;
+}
+#interesting-fact{
+ font-style: italic;
+ margin-top: 0;
+ padding: 0;
+}
+span {
+ font-weight: bold;
+}
+li {
+ list-style: none;
+ font-style: italic;
+}
+#container {
+ border: solid;
+ padding: 5px;
+ width: 300px;
+}
+#card{
+ border: solid;
+ padding: 1em;
+}
